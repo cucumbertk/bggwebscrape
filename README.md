@@ -20,3 +20,10 @@ file 07 : Using Lasso Regression to find coefficient of the Categories / Mechani
           Using Partial Dependence Plot to find effects of the features in XGBoost.
           
 file 08 : Compare R-Squared of Lasso model and XGBoost model. Choose the better one
+
+
+Visit my medium to see more of the visualizing and process of this project 
+
+part 1 : https://medium.com/@6240135229/web-scraping-boardgamegeek-com-what-are-keys-to-a-success-board-games-39b79aff29d6
+
+part 2 : https://medium.com/@6240135229/keys-to-successful-board-game-part-2-a3d93b0e0bf1
